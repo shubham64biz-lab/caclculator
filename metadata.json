@@ -1,0 +1,5 @@
+{
+  "name": "ColorOS Calculator",
+  "description": "A high-fidelity ColorOS-inspired mobile calculator with real-time results, unit conversion dashboard, and soft circular UI.",
+  "requestFramePermissions": []
+}
